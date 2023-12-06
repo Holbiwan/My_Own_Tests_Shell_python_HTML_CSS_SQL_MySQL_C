@@ -1,3 +1,2 @@
-# Python_Practice_Various_tests
-Varied personal  code examples to practice coding in Python
-examples of codes
+Python_HTML_CSS_SQL_MySQL_Personal_tests
+Varied personal  code examples to practice coding
