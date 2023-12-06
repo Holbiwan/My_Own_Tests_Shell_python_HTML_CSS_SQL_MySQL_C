@@ -1,0 +1,7 @@
+"""Function to display a welcome message to the user"""
+def display_welcome_message():
+    """Use the print() function to show the welcome message"""
+    print("Welcome to the Mini Calculator!")
+    
+    """Call the function to display the welcome message"""
+display_welcome_message()
