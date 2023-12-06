@@ -1,4 +1,4 @@
 if denominator != 0:
        return numenator / denominator
 else:
-    print("Cannot divide by zero!")
+    print("Error divide by zero!")
