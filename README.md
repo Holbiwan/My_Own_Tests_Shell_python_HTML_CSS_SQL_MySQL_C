@@ -1,1 +1,1 @@
-* Varied personal  code examples to practice coding
+* Varied own  examples of codes to training
